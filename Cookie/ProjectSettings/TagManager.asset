@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Trap
+  - HeartLife
+  - S_GoldJelly
+  - S_GoldCoin
+  - S_PinkJelly
+  - S_SleverCoin
+  - GoldCoin
+  - SleverCoin
+  - GoldJelly
+  - PinkJelly
+  - BigLifeKit
+  - JellyLv
+  - LifeLv
+  - HpUp
+  - GoldX2
+  - LifeUp
+  - Plus
+  - Hp
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Trap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1868597027
+    locked: 0
+  - name: ForeGround
+    uniqueID: 529057103
+    locked: 0
+  - name: Player
+    uniqueID: 1322476279
+    locked: 0
